@@ -1096,10 +1096,10 @@
     "@types/express" "*"
     "@types/node" "*"
 
-"@types/byline@^4.2.31":
-  version "4.2.31"
-  resolved "https://registry.yarnpkg.com/@types/byline/-/byline-4.2.31.tgz#0e61fcb9c03e047d21c4496554c7116297ab60cd"
-  integrity sha1-DmH8ucA+BH0hxEllVMcRYperYM0=
+"@types/byline@^4.2.36":
+  version "4.2.36"
+  resolved "https://registry.yarnpkg.com/@types/byline/-/byline-4.2.36.tgz#97952657994bddba1d2278119159c2c0dbbddf52"
+  integrity sha512-dO55KDSaOSE+3T8TwP66mzn0u/PM/aSedVMr1tby7WBNjfLIuS6IbYXi1mlau49sVSVB+gXKJscWE0JO3tlXDw==
   dependencies:
     "@types/node" "*"
 
